@@ -1,3 +1,9 @@
+# Update
+
+This issue is fixed by https://github.com/swaggo/swag/pull/1883 . I'm archiving the repo
+
+---
+
 # Swag Generic Struct with Function Scoped Structs Bug
 
 This project demonstrates the bug when generic typed structs used with function scoped structs on
